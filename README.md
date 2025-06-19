@@ -2,6 +2,8 @@
 
 This project implements a model for hierarchical multi-label image classification with novelty detection. Our model classifies animal images at two levels: broad super-classes (bird, dog, reptile) and specific sub-classes (species/breeds), while detecting novel categories not seen during training.
 
+To read the full paper, click here: [Read the paper](NNDL_Final_proj.pdf)
+
 ## Architecture
 
 ### Two-Headed Neural Network
